@@ -1,5 +1,7 @@
 # Bird Species Observation Analysis Dashboard 🐦
 
+**🚀 Live App:** [https://bird-species-observation-analysis-01.streamlit.app/](https://bird-species-observation-analysis-01.streamlit.app/)
+
 This repository contains a comprehensive interactive Streamlit dashboard designed to explore and analyze bird species observation data. Originally backed by PostgreSQL, the application has been transitioned to a local SQLite database for ease of use and portability.
 
 ## Features
@@ -46,4 +48,4 @@ To run the dashboard locally on your machine, follow these steps:
 - **SQLite:** Lightweight local database management
 
 ## Deployment
-This application is configured for seamless deployment on Streamlit Community Cloud.
+This application is continuously deployed via Streamlit Community Cloud and is readily accessible **[HERE](https://bird-species-observation-analysis-01.streamlit.app/)**.
